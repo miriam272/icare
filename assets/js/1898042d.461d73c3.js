@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkicare_user_manual=self.webpackChunkicare_user_manual||[]).push([[840],{3122:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/udsm","name":"udsm","count":2,"permalink":"/blog/tags/udsm"}')}}]);
